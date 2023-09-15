@@ -1,0 +1,7 @@
+{
+  // for bun
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // for deno
+  "deno.enable": false
+}

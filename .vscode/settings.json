@@ -1,0 +1,10 @@
+{
+  // for bun
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // for deno
+  "deno.cacheOnSave": true,
+  "deno.enable": true,
+  "deno.unstable": true,
+  "deno.lint": true
+}
